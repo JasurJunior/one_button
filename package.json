@@ -1,0 +1,27 @@
+{
+  "name": "one_button",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasurJunior/one_button.git"
+  },
+  "author": "JasurJunior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasurJunior/one_button/issues"
+  },
+  "homepage": "https://github.com/JasurJunior/one_button#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
